@@ -2,6 +2,15 @@
 
 > Vue3 starter boiler-plate to build production ready vue.js applications.
 
+## Installation & start app
+
+```sh
+$ git clone https://github.com/alex1the1great/green-heart.git
+$ cd green-heart
+$ npm install
+$ npm run dev
+```
+
 ## Packages
 
 | Name               | Version |

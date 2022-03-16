@@ -1,12 +1,18 @@
 <template>
   <h1>Green Heart Starter App</h1>
-  <div class="alert alert-success alert-dismissible fade show" role="alert">
-    <strong>Bootstrap 5</strong> successfully added!
-    <button
-      type="button"
-      class="btn-close"
-      data-bs-dismiss="alert"
-      aria-label="Close"
-    ></button>
-  </div>
 </template>
+
+<style lang="scss">
+@import "./assets/global.scss";
+
+h1 {
+  text-align: center;
+  padding: 10px;
+
+  &:hover {
+    background-color: #42b883;
+    color: #fff;
+    padding: 10px;
+  }
+}
+</style>

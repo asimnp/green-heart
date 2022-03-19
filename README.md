@@ -19,6 +19,7 @@ $ npm run dev
 | vite               | ^2.8.4  |
 | @vitejs/plugin-vue | ^2.2.2  |
 | bootstrap          | ^5.1.3  |
+| bootstrap-icons    | ^1.8.1  |
 | sass               | ^1.49.9 |
 | eslint             | ^8.5.0  |
 | eslint-plugin-vue  | ^8.2.0  |

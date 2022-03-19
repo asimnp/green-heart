@@ -1,5 +1,5 @@
 <template>
-  <h1>Green Heart Starter App</h1>
+  <h1>Green Heart Starter App <i class="bi bi-balloon-heart"></i></h1>
 </template>
 
 <style lang="scss">
